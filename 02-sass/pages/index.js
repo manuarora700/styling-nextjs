@@ -1,4 +1,3 @@
-import '../styles/style.scss';
 
 export default () => (
     <div className="title">
